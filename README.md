@@ -32,7 +32,6 @@
 
 ### ⚡ Fun Facts
 
-- 🎸 I'm a **beginner guitarist** — slowly (and stubbornly) learning my favorite chords and riffs.
 - 📖 I have a genuine interest in **regional culture and poetry**, and enjoy exploring literature in my native language.
 - ☕ Fueled by coffee and the occasional 2 AM debugging session.
 - 🧩 I enjoy solving DSA problems as much as I enjoy solving real-world product problems.
