@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Wave Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E2DE2&height=220&section=header&text=Hey%20There!%20I'm%20Your%20Name&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Undergrad%20%7C%20Full-Stack%20Developer%20%7C%20ML%20Explorer&descAlignY=58&descSize=18" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E2DE2&height=220&section=header&text=Thiyagarajan%20R&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Undergrad%20%7C%20Full-Stack%20Developer%20%7C%20ML%20Explorer&descAlignY=58&descSize=18" alt="header" />
 
 <!-- Animated Typing Intro -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+full-stack+web+apps+%F0%9F%9A%80;Exploring+Machine+Learning+%F0%9F%A4%96;Contributing+to+Open+Source+%F0%9F%8C%90;Learning+in+public%2C+one+commit+at+a+time+%E2%9C%A8" alt="Typing SVG" />
