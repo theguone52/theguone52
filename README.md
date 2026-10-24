@@ -9,11 +9,10 @@
 <br/>
 
 <!-- Social Badges -->
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/thiyagarajan-yadav-00726b270/?isSelfProfile=true"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="thiyagarajanyadav2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=8E2DE2&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=theguone52e&label=Profile%20Views&color=8E2DE2&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -78,26 +77,26 @@
 
 ## 🌟 Featured Projects
 
-### 🎓 [CampusConnect](https://github.com/your-username/campusconnect)
+### 🎓 [CampusConnect](https://github.com/theguone52/Rep1)
 > A campus collaboration web application designed to streamline student communication and team coordination.
 
 - **📝 Description:** CampusConnect enables students to connect, communicate, and coordinate on academic and extracurricular activities in one centralized platform — replacing scattered group chats and email threads with a purpose-built collaboration hub.
 - **🧰 Tech Stack:** `Next.js` `TypeScript` `Node.js` `Express.js` `PostgreSQL` `Prisma` `Tailwind CSS`
-- **🔗 Links:** [GitHub Repo](https://github.com/your-username/campusconnect) • [Live Demo](https://your-live-link.com)
+- **🔗 Links:** [GitHub Repo](https://github.com/theguone52/Rep1)
 
 <br/>
 
-### 🔄 [SkillSwap Hub](https://github.com/your-username/skillswap-hub)
+### 🔄 [SkillSwap Hub](https://github.com/theguone52/skillswap-hub)
 > A peer-to-peer student skill-exchange platform utilizing a time-credit transaction architecture.
 
 - **📝 Description:** SkillSwap Hub connects students who want to teach and learn from one another, powered by a time-credit system — teach a skill, earn credits, and redeem them to learn something new from a peer.
 - **🧰 Tech Stack:** `React` `TypeScript` `Node.js` `Express.js` `MongoDB` `Docker`
-- **🔗 Links:** [GitHub Repo](https://github.com/your-username/skillswap-hub) • [Live Demo](https://your-live-link.com)
+- **🔗 Links:** [GitHub Repo](https://github.com/theguone52/skillswap-hub) • [Live Demo](https://your-live-link.com)
 
 <br/>
 
 <div align="center">
-  <a href="https://github.com/your-username?tab=repositories">
+  <a href="https://github.com/theguone52?tab=repositories">
     <img src="https://img.shields.io/badge/View_All_Projects-2E9EF7?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
@@ -108,27 +107,27 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=theguone52&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theguone52&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=theguone52&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=theguone52&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theguone52&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
 <!-- Animated Snake Contribution Graph -->
 <!-- Requires a one-time GitHub Actions setup -- see notes below the questions section -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/theguone52/theguone52/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E9EF7,100:8E2DE2&height=3" />
